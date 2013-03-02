@@ -35,7 +35,7 @@ class Sf
 	/**
 	 * @return ContainerInterface
 	 */
-	public static function getServiceContainer()
+	public static function getContainer()
 	{
 		return self::$container;
 	}

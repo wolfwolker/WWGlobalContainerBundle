@@ -1,5 +1,5 @@
 parameters:
-    global_container.listener.class: WWGlobalContainerBundle\Listener\GlobalContainerListener
+    global_container.listener.class: WW\WWGlobalContainerBundle\Listener\GlobalContainerListener
 
 services:
     global_container.listener:

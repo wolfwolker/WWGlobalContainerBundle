@@ -1,0 +1,23 @@
+{
+    "name": "WW/WWGlobalContainerBundle",
+    "version": "1.0",
+    "description": "Stupid bundle that encapsulates the service container into static class",
+    "keywords": ["symfony", "development", "bundle", "global"],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noel Garcia",
+            "email": "noelgarciamolina@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "symfony/framework-bundle": "2.*",
+        "symfony/symfony": "2.*"
+    },
+    "autoload":     {
+        "psr-0": { "WW\\WWGlobalContainerBundle": "" }
+    },
+    "target-dir": "WW/WWGlobalContainerBundle"
+}

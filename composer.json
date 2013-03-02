@@ -1,5 +1,5 @@
 {
-    "name": "WW/WWGlobalContainerBundle",
+    "name": "ww/ww-global-container-bundle",
     "version": "1.0",
     "description": "Stupid bundle that encapsulates the service container into static class",
     "keywords": ["symfony", "development", "bundle", "global"],
